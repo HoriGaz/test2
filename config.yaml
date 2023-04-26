@@ -1,0 +1,3 @@
+service: https://localhost:6969
+originRequest:
+noTLSVerify: true
